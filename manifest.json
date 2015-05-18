@@ -12,6 +12,7 @@
         "persistent": false
     },
     "permissions": [
+        "storage",
         "tabs",
         "http://*/",
         "https://*/"
